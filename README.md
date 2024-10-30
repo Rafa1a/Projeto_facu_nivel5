@@ -2,7 +2,7 @@
 
 Este projeto demonstra um sistema de gerenciamento de livros com um servidor Node.js e três clientes front-end diferentes: Angular, React e Next.js. O servidor fornece uma API REST para acessar os dados dos livros, enquanto os clientes consomem essa API para exibir e gerenciar os livros.
 
-## Estrutura do Projeto
+## Estrutura do Projeto 
 
 O projeto está organizado da seguinte forma:
 
